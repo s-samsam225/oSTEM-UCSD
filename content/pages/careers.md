@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Board
 slug: careers
 sections:
   - title:
