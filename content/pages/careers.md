@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Board
 slug: careers
 sections:
   - title:
@@ -83,7 +83,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: Account Executive
+      - title: oSTEM Apprenticeship
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

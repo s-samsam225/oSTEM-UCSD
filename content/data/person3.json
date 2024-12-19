@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "name": "Asher Schmitt",
-    "role": "Co-founder & CEO",
+    "name": "Roisin Gross",
+    "role": "Vice President Finance",
     "image": {
-        "url": "/images/avatar3.svg",
-        "altText": "Asher Schmitt",
+        "url": "/images/RoisinGross.jpg",
+        "altText": "Roisin Gross",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "she/her\n\nMajor: Chemical Engineering\n\nClass of 2027\n"
 }
