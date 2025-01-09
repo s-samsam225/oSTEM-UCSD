@@ -75,14 +75,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
-  - title:
-      text: Open positions
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Subtitle goes here
+  - subtitle: Subtitle goes here
     items:
       - title: oSTEM Apprenticeship
         subtitle: Sales
