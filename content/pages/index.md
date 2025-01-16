@@ -175,7 +175,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Our Sponsors
+  - subtitle: 'Our Sponsors:'
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
