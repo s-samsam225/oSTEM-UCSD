@@ -36,7 +36,7 @@ sections:
       opacity: 100
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'Join our Newsletter:'
       color: text-dark
       styles:
         self:
