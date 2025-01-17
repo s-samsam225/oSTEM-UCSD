@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >
       Our board is a diverse group of dedicated leaders committed to making a
       difference. If you are interested in joining board in the future, join our
