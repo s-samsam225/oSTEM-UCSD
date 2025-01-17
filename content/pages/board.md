@@ -58,8 +58,8 @@ sections:
       - content/data/person3.json
       - content/data/person11.json
       - content/data/person7.json
-      - content/data/person9.json
       - content/data/person4.json
+      - content/data/person9.json
       - content/data/person6.json
       - content/data/person5.json
       - content/data/person10.json
