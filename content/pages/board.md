@@ -14,13 +14,7 @@ sections:
       Our board is a diverse group of dedicated leaders committed to making a
       difference. If you are interested in joining board in the future, join our
       newsletter and follow our instagram to stay posted.  
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
