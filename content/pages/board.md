@@ -119,10 +119,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: /openPositions
-      color: text-primary
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
