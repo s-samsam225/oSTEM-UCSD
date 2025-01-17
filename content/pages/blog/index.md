@@ -5,12 +5,11 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Upcoming Events
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
