@@ -22,22 +22,22 @@
             "type": "Link"
         },
         {
-            "label": "Get Involved",
-            "url": "/getInvolved",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": false
-        },
-        {
             "label": "Our Team",
-            "altText": "Board Page",
+            "altText": "Careers page",
             "url": "/board",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "label": "Get Involved",
+            "url": "/getinvolved",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": false
         },
         {
             "label": "Dropdown",
