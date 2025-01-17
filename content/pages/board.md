@@ -84,7 +84,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: There are currently no open positions.
     items:
       - type: FeaturedItem
         title: Account Executive
