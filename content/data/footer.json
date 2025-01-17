@@ -33,7 +33,7 @@
         "links": [
             {
                 "label": "Careers",
-                "altText": "careers page",
+                "altText": "Get Involved Page",
                 "url": "/getInvolved",
                 "icon": "arrowRight",
                 "iconPosition": "right",
