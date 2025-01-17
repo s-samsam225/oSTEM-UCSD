@@ -3,53 +3,46 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "oSTEM @ UC San Diego\n\nostem\\@ucsd.edu\n\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Home",
+                "altText": "Home Page",
+                "url": "/home",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Our Team",
+                "url": "/board",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Our Team"
             }
         ],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Get Involved",
+                "altText": "Get Involved Page",
+                "url": "/getInvolved",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Linktree",
+                "url": "https://linktr.ee/ostemucsd",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -66,21 +59,9 @@
             "type": "Social"
         },
         {
-            "altText": "Discord Link",
-            "url": "https://discord.gg/ETNB5Png",
-            "icon": "vimeo",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/company/ostem-at-uc-san-diego/",
             "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/mailto:ostem@ucsd.edu",
-            "icon": "mail",
             "type": "Social"
         }
     ],

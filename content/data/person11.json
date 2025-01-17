@@ -1,11 +1,11 @@
 {
     "type": "Person",
-    "name": "Nehal Choudhary",
-    "role": "Vice President External",
-    "bio": "she/her\n\nMajor: Math - Computer Science\n\nClass of 2028\n",
+    "name": "Selena Wang",
+    "role": "Co-Vice President Internal",
+    "bio": "she/her\n\nMajor: Molecular & Cell Biology\n\nClass of 2028\n",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/NehalChoudhary.jpg",
+        "url": "/images/avatar1.svg",
         "altText": "First Last",
         "styles": {
             "self": {
