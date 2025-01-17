@@ -4,7 +4,7 @@ slug: home
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: Upcoming Events
       color: text-dark
       type: TitleBlock
     subtitle: ''
