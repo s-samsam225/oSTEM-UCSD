@@ -16,7 +16,7 @@ sections:
       newsletter and follow our instagram to stay posted.  
     actions:
       - label: See open positions
-        url: /
+        url: /openPositions
         icon: arrowRight
         iconPosition: right
         style: primary
