@@ -3,7 +3,7 @@ title: Get Involved
 slug: getInvolved
 sections:
   - title:
-      text: 'Sponsorship Packages:'
+      text: 'Sponsorship Package:'
       color: text-dark
       styles:
         self:
