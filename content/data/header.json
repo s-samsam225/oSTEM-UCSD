@@ -22,15 +22,6 @@
             "type": "Link"
         },
         {
-            "label": "Get Involved",
-            "url": "/getinvolved",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": false
-        },
-        {
             "label": "Our Team",
             "altText": "Careers page",
             "url": "/careers",
@@ -38,6 +29,15 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "label": "Get Involved",
+            "url": "/getinvolved",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": false
         },
         {
             "label": "Dropdown",
