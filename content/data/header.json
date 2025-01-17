@@ -22,7 +22,7 @@
             "showIcon": false
         },
         {
-            "label": "Get Home",
+            "label": "Home",
             "altText": "Home",
             "url": "/home",
             "icon": "arrowRight",
