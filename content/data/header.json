@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Get Involved",
-            "url": "/getinvolved",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": false
-        },
-        {
             "label": "Home",
             "altText": "Home",
             "url": "/home",
@@ -29,6 +20,15 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "label": "Get Involved",
+            "url": "/getinvolved",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": false
         },
         {
             "label": "Our Team",
