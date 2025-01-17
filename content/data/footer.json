@@ -63,12 +63,6 @@
             "url": "https://www.linkedin.com/company/ostem-at-uc-san-diego/",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/mailto:ostem@ucsd.edu",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
