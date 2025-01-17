@@ -8,9 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Upcoming Events
-    text: >+
-      <https://calendar.google.com/calendar/u/4?cid=Y18ya2czNnUyYzJkOXNuazJpbGVob3M4ZTEyZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t>
-
+    text: >
+      [Click to join our Google
+      Calender](https://calendar.google.com/calendar/u/4?cid=Y18ya2czNnUyYzJkOXNuazJpbGVob3M4ZTEyZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
