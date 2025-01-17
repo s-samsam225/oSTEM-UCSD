@@ -87,7 +87,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Junior Board
+        title: oSTEM board Apprentership
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
