@@ -132,7 +132,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: wanna stay up to date?
       color: text-primary
       styles:
         self:
