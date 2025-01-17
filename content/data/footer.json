@@ -10,7 +10,7 @@
             {
                 "label": "Home",
                 "altText": "Home Page",
-                "url": "/",
+                "url": "/home",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
