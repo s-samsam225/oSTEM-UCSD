@@ -1,6 +1,6 @@
 ---
-title: Pricing
-slug: pricing
+title: Get Involved
+slug: getInvolved
 sections:
   - title:
       text: Our Mission
