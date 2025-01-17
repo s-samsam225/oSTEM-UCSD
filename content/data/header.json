@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Get Involved",
-            "url": "/pricing",
+            "url": "/getinvolved",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
