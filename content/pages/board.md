@@ -89,10 +89,10 @@ sections:
       - type: FeaturedItem
         title: oSTEM board Apprenticeship
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          In this position, you will have the opportunity to shadow an oSTEM
+          committee of your choice and gain more insight into what it’s like
+          being a board member. 
         actions: []
         colors: bg-neutral-fg-dark
         styles:
