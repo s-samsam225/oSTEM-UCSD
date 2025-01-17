@@ -1,6 +1,6 @@
 ---
 title: Board
-slug: careers
+slug: board
 sections:
   - title:
       text: A team that works closely together
@@ -11,7 +11,9 @@ sections:
       type: TitleBlock
     subtitle: Section subtitle
     text: >
-      Our board is a diverse group of dedicated leaders committed to making a difference. If you are interested in joining board in the future, join our newsletter and follow our instagram to stay posted.  
+      Our board is a diverse group of dedicated leaders committed to making a
+      difference. If you are interested in joining board in the future, join our
+      newsletter and follow our instagram to stay posted.  
     actions:
       - label: See open positions
         url: /
