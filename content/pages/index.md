@@ -55,7 +55,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: wanna stay up to date?
+      label: want to stay up to date?
       color: text-primary
       styles:
         self:
