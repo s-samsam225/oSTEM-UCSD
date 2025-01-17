@@ -14,21 +14,21 @@
     "primaryLinks": [
         {
             "label": "Home",
+            "altText": "Home",
             "url": "/home",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Get Involved",
+            "url": "/getinvolved",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
             "showIcon": false
-        },
-        {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         },
         {
             "label": "Our Team",

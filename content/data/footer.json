@@ -66,8 +66,8 @@
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "altText": "Discord Link",
+            "url": "https://discord.gg/ETNB5Png",
             "icon": "vimeo",
             "type": "Social"
         },
@@ -79,7 +79,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/mailto:ostem@ucsd.edu",
             "icon": "mail",
             "type": "Social"
         }
