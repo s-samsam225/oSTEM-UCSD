@@ -87,7 +87,7 @@ sections:
     subtitle: There are currently no open positions.
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: Junior Board
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
