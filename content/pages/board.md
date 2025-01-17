@@ -84,7 +84,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: There are currently no open positions.
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Junior Board
