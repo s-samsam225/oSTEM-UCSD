@@ -23,7 +23,7 @@
         },
         {
             "label": "Get Involved",
-            "url": "/getinvolved",
+            "url": "/getInvolved",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -32,8 +32,8 @@
         },
         {
             "label": "Our Team",
-            "altText": "Careers page",
-            "url": "/careers",
+            "altText": "Board Page",
+            "url": "/board",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

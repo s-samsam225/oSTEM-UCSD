@@ -1,6 +1,6 @@
 ---
-title: Get Involved
-slug: getInvolved
+title: Pricing
+slug: pricing
 sections:
   - title:
       text: Flexible Pricing

@@ -1,6 +1,6 @@
 ---
 title: Board
-slug: careers
+slug: board
 sections:
   - title:
       text: A team that works closely together
