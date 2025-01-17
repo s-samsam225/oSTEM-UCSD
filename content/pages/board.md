@@ -87,7 +87,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: oSTEM board Apprentership
+        title: oSTEM board Apprenticeship
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
