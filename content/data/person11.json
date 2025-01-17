@@ -2,7 +2,7 @@
     "type": "Person",
     "name": "Selena Wang",
     "role": "Job title",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
+    "bio": "she/her\n\nMajor: Molecular & Cell Biology\n\nClass of 2028\n",
     "image": {
         "type": "ImageBlock",
         "url": "/images/avatar1.svg",
