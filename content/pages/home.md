@@ -44,16 +44,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items: []
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: want to stay up to date?
       color: text-primary
