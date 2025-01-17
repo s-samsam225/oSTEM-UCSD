@@ -24,7 +24,7 @@
         {
             "label": "Get Home",
             "altText": "Home",
-            "url": "/blog",
+            "url": "/home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
