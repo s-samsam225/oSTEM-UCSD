@@ -79,7 +79,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/ostem@ucsd.edu",
             "icon": "mail",
             "type": "Social"
         }
