@@ -4,10 +4,10 @@ slug: home
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: Upcoming Events
       color: text-dark
       type: TitleBlock
-    subtitle: Upcoming Events
+    subtitle: ''
     text: >
       [Click to join our Google
       Calender](https://calendar.google.com/calendar/u/4?cid=Y18ya2czNnUyYzJkOXNuazJpbGVob3M4ZTEyZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
@@ -53,16 +53,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items: []
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: want to stay up to date?
       color: text-primary
