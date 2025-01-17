@@ -23,7 +23,7 @@
         },
         {
             "label": "Get Home",
-            "altText": "Get Involved",
+            "altText": "Home",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
