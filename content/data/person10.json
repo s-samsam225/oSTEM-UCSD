@@ -2,6 +2,8 @@
     "name": "Beatrice Fung",
     "role": "Social Chair",
     "image": {
+        "width": "100",
+        "height": "100",
         "type": "ImageBlock",
         "url": "/images/BeatriceFung.jpg",
         "altText": "Beatrice Fung",
@@ -29,9 +31,7 @@
             "borderStyle": "solid",
             "borderWidth": 0,
             "borderRadius": "none",
-            "justifyContent": "center",
-            "width": "100",
-            "height": "100"
+            "justifyContent": "center"
         }
     },
     "type": "Person",
