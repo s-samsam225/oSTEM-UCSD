@@ -14,7 +14,7 @@ sections:
       Our board is a diverse group of dedicated leaders committed to making a
       difference. If you are interested in joining board in the future, join our
       newsletter and follow our instagram to stay posted.  
-        alignItems: center
+    alignItems: center
         flexDirection: row-reverse
         justifyContent: center
       text:
