@@ -6,7 +6,7 @@
     "image": {
         "type": "ImageBlock",
         "url": "/images/NehalChoudhary.jpg",
-        "altText": "First Last",
+        "altText": "Nehal Choudhary",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -17,6 +17,7 @@
         }
     },
     "colors": "bg-light-fg-dark",
+    "elementId": null,
     "styles": {
         "self": {
             "padding": [
