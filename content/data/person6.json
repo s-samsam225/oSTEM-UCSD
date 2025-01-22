@@ -31,8 +31,8 @@
             "borderWidth": 0,
             "borderRadius": "none",
             "justifyContent": "center",
-            "width": "100",
-            "height": "100"
+            "width": 100,
+            "height": 100
         }
     },
     "bio": "they/them/he/him\n\nMajor: Electrical Engineering\n\nClass of 2024\n\n\n"
