@@ -30,7 +30,9 @@
             "borderStyle": "solid",
             "borderWidth": 0,
             "borderRadius": "none",
-            "justifyContent": "center"
+            "justifyContent": "center",
+            "width": "100",
+            "height": "100"
         }
     },
     "bio": "she/her\n\nMajor: Chemical Engineering\n\nClass of 2027\n"
