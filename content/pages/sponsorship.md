@@ -3,7 +3,7 @@ title: Get Involved
 slug: getInvolved
 sections:
   - title:
-      text: Flexible Pricing
+      text: A-La Carte Sponsorship
       color: text-dark
       styles:
         self:
@@ -11,20 +11,16 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
+      - title: Company Panel
+        price: $250-$350
+        details: $250 in virtual & $350 in-person/hybrid
         description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+          Host a virtual, in person, or hybrid panel to talk to our membership about your company’s mission and values, career opportunities, and commitment to diversity and inclusion.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - There will be three spaces per panel open
         image:
           url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
+          altText: Company Panel Sponsorship
           type: ImageBlock
         actions:
           - label: Try for free
@@ -43,20 +39,16 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
+      - title: Workshop
+        price: $250-$350
+        details: $250 in virtual & $350 in-person/hybrid
         description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+          Outside of our general body meetings, your company can also offer additional workshops of your choice. Past topics have included a resume building/review workshops and the interviewing process.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Offer additional workshops
         image:
           url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
+          altText: Workshop Sponsorship
           type: ImageBlock
         actions:
           - label: Try for free
@@ -75,21 +67,16 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
+      - title: Branding Lavender
+        price: $150
+        details: 
         description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+          Access to resume database for company recruitment. We would promote job oppurtunities in our newsletter and social media pages.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - Medium logo on website
         image:
           url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
+          altText: Branding Sponsorship
           type: ImageBlock
         actions:
           - label: Contact us
