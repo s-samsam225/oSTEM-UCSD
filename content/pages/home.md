@@ -14,11 +14,6 @@ sections:
       <iframe 
       src="https://calendar.google.com/calendar/embed?src=c_2kg36u2c2d9snk2ilehos8e12g%40group.calendar.google.com&ctz=America%2FLos_Angeles" 
       </iframe>
-    styles:
-      borderWidth: 0 
-      width: 800
-      height: 600 
-      frameborder: 0 
 
     actions: []
     media:
