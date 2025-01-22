@@ -1,6 +1,6 @@
 ---
-title: Sponsorship
-slug: sponsorship
+title: Get Involved
+slug: getInvolved
 sections:
   - title:
       text: Flexible Pricing
