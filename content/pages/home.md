@@ -10,7 +10,8 @@ sections:
     subtitle: ''
     text: >
       [Click to join our Google
-      Calender](https://calendar.google.com/calendar/u/4?cid=Y18ya2czNnUyYzJkOXNuazJpbGVob3M4ZTEyZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)]
+      Calender](https://calendar.google.com/calendar/u/4?cid=Y18ya2czNnUyYzJkOXNuazJpbGVob3M4ZTEyZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+      <iframe src="https://calendar.google.com/calendar/embed?src=c_2kg36u2c2d9snk2ilehos8e12g%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
