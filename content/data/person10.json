@@ -1,12 +1,10 @@
 {
-    "type": "Person",
     "name": "Beatrice Fung",
     "role": "Social Chair",
-    "bio": "she/they\n\nMajor: Human Biology\n\nClass of 2028\n",
     "image": {
         "type": "ImageBlock",
         "url": "/images/BeatriceFung.jpg",
-        "altText": "First Last",
+        "altText": "Beatrice Fung",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +31,7 @@
             "borderRadius": "none",
             "justifyContent": "center"
         }
-    }
+    },
+    "type": "Person",
+    "bio": "she/they\n\nMajor: Human Biology\n\nClass of 2028\n"
 }

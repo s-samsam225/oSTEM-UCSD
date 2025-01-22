@@ -1,12 +1,10 @@
 {
-    "type": "Person",
     "name": "Lydia Chen",
     "role": "Publicity Chair",
-    "bio": "they/she\n\nMajor: Human Biology\n\nClass of 2027\n",
     "image": {
         "type": "ImageBlock",
         "url": "/images/LydiaChen.JPG",
-        "altText": "First Last",
+        "altText": "Lydia Chen",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +31,8 @@
             "borderRadius": "none",
             "justifyContent": "center"
         }
-    }
+    },
+    "type": "Person",
+    "bio": "they/she\n\nMajor: Human Biology\n\nClass of 2027\n"
+
 }

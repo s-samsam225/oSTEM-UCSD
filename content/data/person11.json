@@ -1,12 +1,10 @@
 {
-    "type": "Person",
     "name": "Selena Wang",
     "role": "Co-Vice President Internal",
-    "bio": "she/her\n\nMajor: Molecular & Cell Biology\n\nClass of 2028\n",
     "image": {
         "type": "ImageBlock",
         "url": "/images/SelenaWang.jpg",
-        "altText": "First Last",
+        "altText": "Selena Wang",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +31,8 @@
             "borderRadius": "none",
             "justifyContent": "center"
         }
-    }
+    },
+    "type": "Person",
+    "bio": "she/her\n\nMajor: Molecular & Cell Biology\n\nClass of 2028\n"
+
 }

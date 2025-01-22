@@ -1,8 +1,6 @@
 {
-    "type": "Person",
     "name": "Nehal Choudhary",
     "role": "Vice President External",
-    "bio": "she/her\n\nMajor: Math - Computer Science\n\nClass of 2028\n",
     "image": {
         "type": "ImageBlock",
         "url": "/images/NehalChoudhary.jpg",
@@ -31,7 +29,11 @@
             "borderStyle": "solid",
             "borderWidth": 0,
             "borderRadius": "none",
-            "justifyContent": "center"
+            "justifyContent": "center",
+            "width": "100",
+            "height": "100"
         }
-    }
+    },
+    "type": "Person",
+    "bio": "she/her\n\nMajor: Math - Computer Science\n\nClass of 2028\n"
 }
